@@ -1,4 +1,4 @@
-thi<!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 <head>
 	<title>MyFacebook Feed</title>
