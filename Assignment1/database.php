@@ -1,7 +1,7 @@
 <?php
 $dbhost = "localhost";	
 $dbuser = "root";
-$dbpass = "password";
+$dbpass = "root";
 $dbname = "myDB";
 
 function connect_db(){
